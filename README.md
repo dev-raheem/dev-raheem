@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/faisal-mujtaba-480601244">Faisal Mujtaba 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/raheem-khan-5109541b7">Raheem Khan 💻</a>!
 </h2>  
 
 Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  JavaScript, Typescript and React, and I'm always looking to learn and try new technologies.
@@ -13,7 +13,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalinfinity&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-raheem&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
  
       
@@ -24,16 +24,16 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/faisal-mujtaba-480601244" target="_blank">LinkedIn</a> & GitHub**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/raheem-khan-5109541b7" target="_blank">LinkedIn</a> & GitHub**
 
 - 📫 Reach me on **mujtabafaisal944.fk@gmail.com** 
 
 - 💬 Open for your suggestions
  
-- 💬 Have a look at my [Portfolio](https://faisalinfinity.github.io/) 
+- 💬 Have a look at my [Portfolio](https://dev-raheem.github.io/) 
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1w6skRez72kCV9W7hv4TTjIqgrYb9NASF/view?usp=sharing" target="_target">Resume</a>
-- <p align="left"> <a href="https://twitter.com/faisal_mujtaba_" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_mujtaba_?logo=twitter&style=for-the-badge" alt="1heintrovertboy" /></a> </p>
+  
+- <p align="left"> <a href="https://twitter.com/raheemkhan458" target="blank"><img src="https://img.shields.io/twitter/follow/raheemkhan458?logo=twitter&style=for-the-badge" alt="1heintrovertboy" /></a> </p>
 
 
 
@@ -89,10 +89,10 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 ## 📊 Statistics  
 <!-- github status  -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalinfinity" alt="faisalinfinity" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-raheem" alt="faisalinfinity" /></a> </p>
 
 <div align="center" style="display: flex; gap:50px">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=faisalinfinity&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-raheem&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
 
 <div align="center" style="display: flex; ">
  
@@ -100,7 +100,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 </div>
 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faisalinfinity&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-raheem&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 
 </div>
 
@@ -113,4 +113,4 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-mujtaba-480601244) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raheem-khan-5109541b7/) 
