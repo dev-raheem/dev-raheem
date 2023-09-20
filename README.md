@@ -26,11 +26,10 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/raheem-khan-5109541b7" target="_blank">LinkedIn</a> & GitHub**
 
-- 📫 Reach me on **mujtabafaisal944.fk@gmail.com** 
+- 📫 Reach me on **raheemkhan458@gmail.com** 
 
 - 💬 Open for your suggestions
- 
-- 💬 Have a look at my [Portfolio](https://dev-raheem.github.io/) 
+
 
   
 - <p align="left"> <a href="https://twitter.com/raheemkhan458" target="blank"><img src="https://img.shields.io/twitter/follow/raheemkhan458?logo=twitter&style=for-the-badge" alt="1heintrovertboy" /></a> </p>
@@ -96,7 +95,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=faisalinfinity&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
+<img src="https://streak-stats.demolab.com?user=dev-raheem&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
 
 </div>
 
@@ -104,10 +103,6 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 </div>
 
-
-
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Faisal Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=faisalinfinity&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
